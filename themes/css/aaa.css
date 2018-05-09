@@ -1,0 +1,17 @@
+.search_form input{
+
+color:#000;}
+#myCarousel {
+	margin-left:15px;
+}
+.thumbnails.listing-products{
+	margin-left:-5px;
+}
+.pagination ul>.active>a, .pagination ul>.active>span {
+    color: #eb4800;
+    /* cursor: default; */
+}
+.pagination ul>.active>a{
+    background-color: #cab9b1;
+}
+.
